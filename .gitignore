@@ -1,0 +1,14 @@
+# File temporanei o di backup
+*.log
+*.tmp
+*.bak
+*~
+
+# File di configurazione personale
+.env
+.vscode/
+.idea/
+
+# File di sistema
+.DS_Store
+Thumbs.db
