@@ -21,10 +21,10 @@ INSERT INTO Tratta (stazione_partenza_id, stazione_arrivo_id, orario_partenza, o
 (5, 1, '2025-07-10 12:00:00', '2025-07-10 16:30:00', 5);
 
 INSERT INTO Stazione (nome, citta) VALUES
-('Stazione Centrale', 'Milano'),
-('Stazione Santa Lucia', 'Venezia'),
+ ('Stazione Santa Lucia', 'Venezia'),
 ('Stazione Centrale', 'Napoli'),
 ('Stazione Porta Nuova', 'Torino'),
+('Stazione Centrale', 'Milano'),
 ('Stazione Termini', 'Roma');
 
 INSERT INTO Mezzo (tipo, codice_identificativo) VALUES
