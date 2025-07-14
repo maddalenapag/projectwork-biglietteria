@@ -45,3 +45,5 @@ CREATE INDEX idx_tratta_partenza ON Tratta(stazione_partenza);
 CREATE INDEX idx_tratta_arrivo ON Tratta(stazione_arrivo);
 CREATE INDEX idx_biglietto_passeggero ON Biglietto(passeggero_id);
 CREATE INDEX idx_biglietto_tratta ON Biglietto(tratta_id);
+
+
