@@ -34,3 +34,5 @@ INSERT INTO Mezzo (tipo, codice_identificativo) VALUES
 ('Treno', 'TR040'),
 ('Treno', 'TR303');
 
+
+
