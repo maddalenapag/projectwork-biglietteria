@@ -1,14 +1,33 @@
-# File temporanei o di backup
+# === File temporanei o di backup ===
 *.log
 *.tmp
 *.bak
 *~
+*.swp
 
-# File di configurazione personale
-.env
+# === File di sistema (Windows / Mac) ===
+.DS_Store
+Thumbs.db
+
+# === File di editor ===
 .vscode/
 .idea/
 
-# File di sistema
-.DS_Store
-Thumbs.db
+# === File temporanei Office/LibreOffice ===
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# === Compilazioni LaTeX (se usi) ===
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# === Escludi file personali o di prova ===
+.env
+
