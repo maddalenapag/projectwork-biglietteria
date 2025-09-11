@@ -59,4 +59,4 @@ Testare le query tramite query.sql
 Autore
 
 Maddalena Pagliarulo – Project Work universitario presso UniPegaso
-Anno accademico: 2025
+Anno accademico: 2024-2025
